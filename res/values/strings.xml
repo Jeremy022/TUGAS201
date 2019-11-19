@@ -5,5 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_contact_detail">ContactDetail</string>
     <string name="title_activity_tambah_contact">Tambah Contact</string>
+    <string name="title_activity_contact_pesan">Contact Pesan</string>
+    <string name="title_activity_fragment_inbox">Inbox</string>
+    <string name="title_activity_fragment_outbox">Outbox</string>
 
 </resources>
